@@ -1,0 +1,6 @@
+# Anotaciones para la construcción de un modelo para la predicción de patologías cardiacas
+El presente repositorio refleja las anotaciones del trabajo de los alumnos Jesús Uziel Flores de la Cruz y Edgar Munguia Velasco Edgar, ambos egresados de la ESCOM, en donde se plantea un modelo de aprendizaje automático con redes neuronales basado en su prototipo presentado en el trabajo terminal “Prototipo de sistema que ayude en el diagnóstico de patologías cardíacas” (2021-B099) en el año 2021.
+
+El código resultante recopila algunos hechos con respecto a la investigación, así como la implementación de un modelo de aprendizaje automático con redes neuronales para la predicción de patologías cardiacas. Adjunto al notebook en Jupyter se encuentra el dataset utilizado para el entrenamiento del modelo, el cual fue obtenido de la plataforma Physionet el cual se nombra como MIT-BIH. 
+
+Se cuentan con las versiones de los paquetes utilizados en el desarrollo del modelo, así como la implementación de la red neuronal, la cual se encuentra en archivo `requirements.txt` y el dataset en la carpeta de `data`. Adicionalmente se sugiere la versiòn de Python 3.12 y el gestor de entornos Anaconda o Miniconda para la ejecución del código. 
